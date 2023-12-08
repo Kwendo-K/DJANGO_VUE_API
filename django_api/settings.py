@@ -89,7 +89,7 @@ DATABASES = {
         'NAME': "Django_Api",
         "USER": "postgres",
         "HOST": "localhost",
-        "PASSWORD": "Asila@1991",
+        "PASSWORD": "",
         "PORT": "5433",
     }
 }
